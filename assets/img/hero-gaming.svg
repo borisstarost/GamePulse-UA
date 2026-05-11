@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#162960"/>
+      <stop offset="100%" stop-color="#07111f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1250" cy="170" r="150" fill="#6ea8ff" opacity=".18"/>
+  <circle cx="310" cy="710" r="200" fill="#7cf2c9" opacity=".14"/>
+  <rect x="120" y="145" width="1360" height="610" rx="48" fill="#fff" opacity=".07"/>
+  <text x="170" y="330" fill="#7cf2c9" font-family="Arial" font-size="38" letter-spacing="6">HTML + CSS PROJECT</text>
+  <text x="170" y="450" fill="#edf2ff" font-family="Arial" font-size="96" font-weight="700">GamePulse UA</text>
+  <text x="170" y="535" fill="#c8d2f0" font-family="Arial" font-size="42">Новини • Огляди • Характеристики ПК • Галерея</text>
+</svg>
